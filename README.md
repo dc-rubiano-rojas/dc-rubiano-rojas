@@ -1,5 +1,7 @@
 ### Hi I'm Daniel Rubiano 👋
 
+- 🌱 I’m currently learning React
+
 <!--
 **dc-rubiano-rojas/dc-rubiano-rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
