@@ -1,6 +1,7 @@
 ### Hi I'm Daniel. I'm a Fullstack Developer 👋
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Django
+- - 🔭 I’m currently working on a chatbot
 - 📫 Reach me: dcrubiano01@gmail.com
 - 👯 I’m looking to collaborate on projects in Angular or NodeJS.
 
