@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Django
 - 🔭 I’m currently working on a chatbot
 - 📫 Reach me: dcrubiano01@gmail.com
+<!--
 - 👯 I’m looking to collaborate on projects in Angular or NodeJS.
+-->
 
 > "Persistence is very important. You should not give up unless you are forced to give up." Elon Musk
 <!--
