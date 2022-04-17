@@ -1,4 +1,4 @@
-### Hi I'm Daniel. I'm a Fullstack Developer 👋
+### Hi I'm Daniel Rubiano. I'm a Fullstack Developer 👋
 
 - 🌱 I’m currently learning Django
 - 🔭 I’m currently working on a chatbot
