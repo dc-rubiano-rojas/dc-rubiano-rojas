@@ -13,8 +13,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a chatbot
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on an App
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate...
 - 💬 Ask me about ...
 - 📫 How to reach me: dcrubiano01@gmail.com
