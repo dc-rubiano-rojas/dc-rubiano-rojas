@@ -1,7 +1,7 @@
 ### Hi I'm Daniel Rubiano. I'm a Fullstack Developer 👋
 
-- 🌱 I’m currently learning Django
-- 🔭 I’m currently working on a chatbot
+- 🌱 I’m currently learning Kotlin and Jetpack Compose
+- 🔭 I’m currently working on an App
 - 📫 Reach me: dcrubiano01@gmail.com
 <!--
 - 👯 I’m looking to collaborate on projects in Angular or NodeJS.
