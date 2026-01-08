@@ -1,8 +1,11 @@
 ### Hi I'm Daniel Rubiano. I'm a Fullstack Developer 👋
 
-- 🌱 I’m currently learning Kotlin and Jetpack Compose
-- 🔭 I’m currently working on a React-native expo firebase project
-- 📫 Reach me: dcrubiano01@gmail.com
+- 🔭 I’m currently working on AI-driven projects, including Speech Emotion Recognition (SER) and an AI Assistant built as a SaaS platform
+- 🌱 I’m continuously learning and experimenting with Machine Learning, LLMs, and cloud-based AI architectures
+- 👯 I’m looking to collaborate on AI, backend, or cloud-native projects
+- 💬 Ask me about AI systems, LLM integrations, Node.js, Python, or cloud architectures
+- 📫 How to reach me: dcrubiano01@gmail.com
+- 😄 Pronouns: He/Him
 <!--
 - 👯 I’m looking to collaborate on projects in Angular or NodeJS.
 -->
