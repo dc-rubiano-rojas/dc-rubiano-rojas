@@ -13,13 +13,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an App
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on AI-driven projects, including Speech Emotion Recognition (SER) and an AI Assistant built as a SaaS platform
+- 🌱 I’m continuously learning and experimenting with Machine Learning, LLMs, and cloud-based AI architectures
+- 👯 I’m looking to collaborate on AI, backend, or cloud-native projects
+- 💬 Ask me about AI systems, LLM integrations, Node.js, Python, or cloud architectures
 - 📫 How to reach me: dcrubiano01@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
 -->
  <!--
  <div align="center">
